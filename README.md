@@ -1,2 +1,3 @@
 # GraphComp-Core
-A node graph interpreter/compiler.
+### The core scripts of the graph compiler.
+Why am I doing this? No clue.
